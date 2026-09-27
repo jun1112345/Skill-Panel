@@ -1,0 +1,25 @@
+using UnityEngine;
+
+public class #SCRIPTNAME# : IState
+{
+    public StateMachines StateMachine { get; set; }
+    // Type _owner;
+
+    public #SCRIPTNAME#()
+    {
+        // _owner = owner;
+    }
+
+    public void Enter() 
+    { 
+    
+    }
+    public void Execute() 
+    { 
+    
+    }
+    public void Exit() 
+    { 
+    
+    }
+}
